@@ -27,6 +27,8 @@ import junit.framework.TestCase;
  */
 public class TestNewComer extends TestCase {
 
+	// ふふふ
+
 	private static final int TIP = 100;
 
 	// ----- public
